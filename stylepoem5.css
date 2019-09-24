@@ -1,0 +1,95 @@
+body {
+  margin: 0px;
+}
+
+.container {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  background-color: #cce3a0;
+  font-family: Futura;
+  font-size: 30px;
+  color: white;
+}
+
+.part1 {
+  position: relative;
+  height: 80vh;
+  width: 25vh;
+  left: 5%;
+  top: 15%;
+  background-color: #ecff4e;
+  color: white;
+  font-family: Futura;
+  font-size: 10px;
+  padding: 20px;
+  border: solid white 10px;
+  text-align: center;
+  display: inline-block
+}
+
+.part2 {
+  position: relative;
+  height: 80vh;
+  width: 25vh;
+  left: 8%;
+  top: 18%;
+  background-color: #69f172;
+  color: white;
+  font-family: Futura;
+  font-size: 10px;
+  padding: 20px;
+  border: solid #eef59e 10px;
+  text-align: center;
+  display: inline-block
+}
+
+.part3 {
+  position: relative;
+  height: 60vh;
+  width: 15vh;
+  left: 14%;
+  top: 54%;
+  background-color: #a9d628;
+  color: white;
+  font-family: Futura;
+  font-size: 10px;
+  padding: 20px;
+  border: solid #c0f189 10px;
+  text-align: center;
+  display: inline-block
+}
+
+.part4 {
+  position: relative;
+  height: 60vh;
+  width: 25vh;
+  left: 18%;
+  top: 20%;
+  background-color: #cdfb9e;
+  color: white;
+  font-family: Futura;
+  font-size: 10px;
+  padding: 20px;
+  border: solid #9eb800 10px;
+  text-align: center;
+  display: inline-block
+}
+
+.part5 {
+  position: relative;
+  left: 15%;
+  top: 75%;
+  color: white;
+  font-family: Futura;
+  font-size: 15px;
+  text-align: center;
+  display: inline-block
+}
+
+.link {
+  position: absolute;
+  left: 95%;
+  color: white;
+  border-radius: 150px;
+}
